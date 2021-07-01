@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  margin: 5px;
+  background-color: rgb(136, 202, 202);
+  padding: 5px;
+  border-radius: 3px;
+  width: 50px;
+}
+button:active {
+  background-color: rgb(121, 177, 177);
+}
+p {
+  font-weight: bold;
+}

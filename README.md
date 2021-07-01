@@ -1,0 +1,1 @@
+An exercise with React to create an additional button that would decrement the sum shown onClick.
